@@ -6,6 +6,8 @@ I've worked and am always learning about:
 
 * Electronic circuit architecture
 * FreeRTOS
+* MQTT
+* Bluetooth LE / Classic
 * C/C++
 * Python
 * Javascript/HTML/CSS
@@ -14,7 +16,7 @@ Things I'm learning:
 
 * C#
 * Delphi / Pascal
-* Java
+* Android (Java)
 
 
 
