@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-📜 Let's have a juice and exchange a little experience about technology?
+📜 A Control and automation engineer who really likes code.
 
 I've worked and am always learning about:
 
